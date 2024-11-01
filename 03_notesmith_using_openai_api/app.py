@@ -58,7 +58,7 @@ def call_model(messages):
 
 st.set_page_config(page_title="NoteSmith", page_icon="🗡️", layout="wide")
 
-image = "./images/note-smith-logo.png"
+image = "03_notesmith_using_openai_api/images/note-smith-logo.png"
 st.sidebar.image(image, width=280)
 
 # Add API key input in the sidebar
