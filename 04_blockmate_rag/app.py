@@ -152,7 +152,7 @@ def generate_context(user_message, index, documents):
 st.set_page_config(page_title="BlockMate: Foam Inventory Assistant", page_icon="🛏️", layout="wide")
 
 # Sidebar setup
-st.sidebar.image("images/blockmate-logo.png")
+st.sidebar.image("/04_blockmate_rag/images/blockmate-logo.png")
 
 # API key input
 api_key = st.sidebar.text_input("Enter OpenAI API Key:", type="password")
