@@ -1,0 +1,11 @@
+openai==0.28.1
+streamlit
+streamlit-option-menu
+streamlit-extras
+faiss-cpu
+langchain
+langchain-community
+scipy
+scikit-learn
+numpy
+matplotlib
