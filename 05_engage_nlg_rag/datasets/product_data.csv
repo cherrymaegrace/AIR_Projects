@@ -1,0 +1,121 @@
+product_id,purchase_category,item,short_description,price,stocks
+product_1,Grocery,Product 1,Short description for product 1,374.4646244550189,50
+product_2,Grocery,Product 2,Short description for product 2,131.0074773073068,19
+product_3,Electronics,Product 3,Short description for product 3,448.82012611182824,84
+product_4,Fashion,Product 4,Short description for product 4,52.6118509992833,45
+product_5,Fashion,Product 5,Short description for product 5,105.75823664430362,67
+product_6,Electronics,Product 6,Short description for product 6,352.8843832275385,76
+product_7,Grocery,Product 7,Short description for product 7,322.21441490625693,11
+product_8,Beauty,Product 8,Short description for product 8,226.36800019957172,75
+product_9,Electronics,Product 9,Short description for product 9,299.4192997042818,1
+product_10,Electronics,Product 10,Short description for product 10,406.6067943588115,25
+product_11,Fashion,Product 11,Short description for product 11,310.28903340926314,31
+product_12,Beauty,Product 12,Short description for product 12,232.52170412295666,38
+product_13,Electronics,Product 13,Short description for product 13,294.03687233283125,95
+product_14,Fashion,Product 14,Short description for product 14,491.6653758753512,10
+product_15,Home Goods,Product 15,Short description for product 15,419.1611306287679,85
+product_16,Grocery,Product 16,Short description for product 16,53.67820326396856,78
+product_17,Home Goods,Product 17,Short description for product 17,354.7968727755411,95
+product_18,Fashion,Product 18,Short description for product 18,299.589544542887,91
+product_19,Electronics,Product 19,Short description for product 19,239.6412786053267,59
+product_20,Beauty,Product 20,Short description for product 20,154.04623745109137,25
+product_21,Electronics,Product 21,Short description for product 21,141.0691134983374,32
+product_22,Fashion,Product 22,Short description for product 22,235.9409166916039,98
+product_23,Grocery,Product 23,Short description for product 23,53.598040731095864,32
+product_24,Fashion,Product 24,Short description for product 24,34.971537593267165,66
+product_25,Grocery,Product 25,Short description for product 25,402.3072240390232,61
+product_26,Home Goods,Product 26,Short description for product 26,8.364327657243297,75
+product_27,Beauty,Product 27,Short description for product 27,52.627399329680024,95
+product_28,Home Goods,Product 28,Short description for product 28,147.30132270240105,30
+product_29,Fashion,Product 29,Short description for product 29,404.496189978221,64
+product_30,Home Goods,Product 30,Short description for product 30,147.54201737562087,4
+product_31,Beauty,Product 31,Short description for product 31,28.297862847330542,93
+product_32,Grocery,Product 32,Short description for product 32,327.8381630323713,58
+product_33,Electronics,Product 33,Short description for product 33,222.74863886625837,87
+product_34,Fashion,Product 34,Short description for product 34,318.7163454096424,85
+product_35,Electronics,Product 35,Short description for product 35,373.27009537593807,43
+product_36,Home Goods,Product 36,Short description for product 36,386.9688006426907,32
+product_37,Home Goods,Product 37,Short description for product 37,130.6811387871448,52
+product_38,Home Goods,Product 38,Short description for product 38,301.26004810699806,73
+product_39,Fashion,Product 39,Short description for product 39,66.36364466584965,81
+product_40,Beauty,Product 40,Short description for product 40,399.96942039428154,5
+product_41,Grocery,Product 41,Short description for product 41,342.00180617263925,17
+product_42,Fashion,Product 42,Short description for product 42,106.70793213305667,82
+product_43,Fashion,Product 43,Short description for product 43,177.3238972672095,76
+product_44,Electronics,Product 44,Short description for product 44,237.05966502671734,56
+product_45,Electronics,Product 45,Short description for product 45,273.3578325832047,27
+product_46,Fashion,Product 46,Short description for product 46,473.12053825475317,67
+product_47,Fashion,Product 47,Short description for product 47,87.84496547452676,18
+product_48,Beauty,Product 48,Short description for product 48,363.01368445840995,12
+product_49,Beauty,Product 49,Short description for product 49,401.1134719659214,98
+product_50,Electronics,Product 50,Short description for product 50,142.86887697218117,56
+product_51,Electronics,Product 51,Short description for product 51,310.1919251323061,49
+product_52,Grocery,Product 52,Short description for product 52,167.0633707534679,67
+product_53,Beauty,Product 53,Short description for product 53,293.3254859367239,13
+product_54,Home Goods,Product 54,Short description for product 54,155.24132517978722,71
+product_55,Electronics,Product 55,Short description for product 55,25.486496628008144,78
+product_56,Electronics,Product 56,Short description for product 56,162.15186716620843,72
+product_57,Fashion,Product 57,Short description for product 57,300.78133124465296,21
+product_58,Grocery,Product 58,Short description for product 58,57.60471815650986,65
+product_59,Electronics,Product 59,Short description for product 59,293.95179141890463,60
+product_60,Beauty,Product 60,Short description for product 60,317.3094043524875,96
+product_61,Fashion,Product 61,Short description for product 61,155.6812946953638,15
+product_62,Electronics,Product 62,Short description for product 62,195.56623563222806,40
+product_63,Beauty,Product 63,Short description for product 63,301.13061227534797,6
+product_64,Fashion,Product 64,Short description for product 64,153.96569080885305,65
+product_65,Home Goods,Product 65,Short description for product 65,10.514459274180659,57
+product_66,Fashion,Product 66,Short description for product 66,384.746402851731,3
+product_67,Beauty,Product 67,Short description for product 67,25.450593752473996,78
+product_68,Electronics,Product 68,Short description for product 68,207.04406884406558,97
+product_69,Grocery,Product 69,Short description for product 69,472.6520128719218,11
+product_70,Grocery,Product 70,Short description for product 70,282.6520509929143,31
+product_71,Fashion,Product 71,Short description for product 71,353.32093079147717,52
+product_72,Home Goods,Product 72,Short description for product 72,369.19963390469536,65
+product_73,Home Goods,Product 73,Short description for product 73,165.72260101149283,23
+product_74,Electronics,Product 74,Short description for product 74,30.805601350307793,42
+product_75,Fashion,Product 75,Short description for product 75,372.93382366075014,46
+product_76,Grocery,Product 76,Short description for product 76,211.02717134077093,79
+product_77,Home Goods,Product 77,Short description for product 77,157.39891686877814,37
+product_78,Grocery,Product 78,Short description for product 78,91.49958541063974,68
+product_79,Electronics,Product 79,Short description for product 79,182.90003269499934,11
+product_80,Home Goods,Product 80,Short description for product 80,118.57266210987119,79
+product_81,Home Goods,Product 81,Short description for product 81,248.84718672039867,96
+product_82,Grocery,Product 82,Short description for product 82,202.2888279331165,64
+product_83,Beauty,Product 83,Short description for product 83,381.69315495590985,37
+product_84,Beauty,Product 84,Short description for product 84,432.76034348569993,83
+product_85,Fashion,Product 85,Short description for product 85,113.4200115304365,29
+product_86,Beauty,Product 86,Short description for product 86,163.99172311813922,51
+product_87,Grocery,Product 87,Short description for product 87,234.67268424472053,24
+product_88,Fashion,Product 88,Short description for product 88,18.98336018569371,46
+product_89,Grocery,Product 89,Short description for product 89,172.1086003330014,52
+product_90,Fashion,Product 90,Short description for product 90,28.648750662211857,46
+product_91,Fashion,Product 91,Short description for product 91,82.38356043483567,53
+product_92,Home Goods,Product 92,Short description for product 92,216.1106278670324,56
+product_93,Beauty,Product 93,Short description for product 93,13.299715175175413,58
+product_94,Home Goods,Product 94,Short description for product 94,424.7327972223436,23
+product_95,Beauty,Product 95,Short description for product 95,151.04274513601644,15
+product_96,Beauty,Product 96,Short description for product 96,320.92359488448216,11
+product_97,Electronics,Product 97,Short description for product 97,235.17524978668143,73
+product_98,Home Goods,Product 98,Short description for product 98,100.55378266676173,28
+product_99,Beauty,Product 99,Short description for product 99,310.95302597478604,23
+product_100,Electronics,Product 100,Short description for product 100,298.70718369158357,85
+product_101,Home Goods,Product 101,Short description for product 101,183.61074273857295,67
+product_102,Home Goods,Product 102,Short description for product 102,99.77009170516716,77
+product_103,Grocery,Product 103,Short description for product 103,179.72815331231925,38
+product_104,Beauty,Product 104,Short description for product 104,360.4996906736441,45
+product_105,Beauty,Product 105,Short description for product 105,150.34557461538967,54
+product_106,Home Goods,Product 106,Short description for product 106,482.8887409106304,29
+product_107,Grocery,Product 107,Short description for product 107,163.39625898522897,100
+product_108,Fashion,Product 108,Short description for product 108,200.32470821290042,50
+product_109,Grocery,Product 109,Short description for product 109,53.36316275348389,43
+product_110,Electronics,Product 110,Short description for product 110,469.50857482173734,60
+product_111,Electronics,Product 111,Short description for product 111,21.271722096112036,90
+product_112,Beauty,Product 112,Short description for product 112,56.125894741729155,26
+product_113,Electronics,Product 113,Short description for product 113,317.2847619638191,66
+product_114,Home Goods,Product 114,Short description for product 114,84.00991052943594,79
+product_115,Grocery,Product 115,Short description for product 115,49.10746699787136,59
+product_116,Electronics,Product 116,Short description for product 116,362.2898079110003,5
+product_117,Electronics,Product 117,Short description for product 117,415.5481568787143,46
+product_118,Electronics,Product 118,Short description for product 118,411.27142639791646,65
+product_119,Electronics,Product 119,Short description for product 119,251.5808248708628,6
+product_120,Fashion,Product 120,Short description for product 120,251.91441397623782,74

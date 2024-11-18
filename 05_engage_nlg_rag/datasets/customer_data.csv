@@ -1,0 +1,121 @@
+user_id,age,gender,location,last_purchased_date,total_spend,last_purchased_from_category,engagement_score,activity_level
+user_1,32,Male,Los Angeles,2023-08-17,948.7408370803339,Electronics,4,3
+user_2,53,Male,Houston,2023-08-11,326.0914682590788,Fashion,2,1
+user_3,59,Male,Chicago,2023-04-29,843.6280484817306,Electronics,2,3
+user_4,31,Male,Chicago,2023-12-16,374.8626156067268,Grocery,1,10
+user_5,27,Male,Houston,2024-04-26,898.4942957456998,Fashion,3,6
+user_6,56,Female,Phoenix,2024-11-08,870.2739972106991,Grocery,2,2
+user_7,27,Male,New York,2024-10-21,231.58304855533655,Fashion,3,9
+user_8,35,Male,New York,2024-07-25,450.216654987458,Electronics,2,8
+user_9,55,Male,Houston,2024-01-22,28.577641311746955,Electronics,2,2
+user_10,41,Female,Houston,2024-06-04,534.5518104167367,Grocery,1,6
+user_11,49,Female,Los Angeles,2023-09-25,75.11770414465755,Home Goods,2,10
+user_12,38,Female,Houston,2023-07-07,935.0535938079769,Grocery,2,7
+user_13,65,Female,Houston,2023-11-05,45.06619696575009,Electronics,2,10
+user_14,59,Female,Los Angeles,2023-12-16,380.4155291043677,Electronics,2,2
+user_15,45,Female,New York,2023-09-16,943.1356505544171,Fashion,4,7
+user_16,25,Male,Houston,2023-05-02,339.47950217490984,Fashion,1,5
+user_17,42,Female,Los Angeles,2023-04-03,288.35760077260795,Grocery,5,6
+user_18,38,Female,Chicago,2023-09-20,762.4391275591825,Electronics,5,2
+user_19,31,Female,New York,2024-03-12,315.10593259332006,Beauty,5,2
+user_20,19,Male,Chicago,2024-02-12,463.20862993473446,Fashion,3,10
+user_21,31,Female,New York,2024-08-18,680.0627774730576,Grocery,2,4
+user_22,41,Male,Phoenix,2023-01-16,757.8308254409126,Electronics,3,8
+user_23,48,Male,Los Angeles,2024-06-20,746.8448580943437,Fashion,3,7
+user_24,52,Female,New York,2024-05-31,407.1864701506302,Beauty,2,2
+user_25,32,Female,Phoenix,2024-07-02,735.6656527786339,Home Goods,2,1
+user_26,24,Male,Phoenix,2023-04-13,695.8292130763169,Grocery,1,2
+user_27,38,Male,Los Angeles,2023-04-26,686.2736679126489,Fashion,4,9
+user_28,41,Female,Chicago,2023-05-19,400.6871567923638,Beauty,1,2
+user_29,38,Male,Chicago,2024-05-05,944.1944711323571,Beauty,3,2
+user_30,18,Female,Chicago,2024-11-02,927.5532195827789,Home Goods,3,5
+user_31,43,Male,Houston,2024-01-26,192.92715770633407,Home Goods,4,7
+user_32,51,Female,Houston,2023-08-23,687.0804428106454,Fashion,4,1
+user_33,34,Female,Los Angeles,2024-06-23,602.9674770461735,Fashion,2,3
+user_34,24,Male,Phoenix,2023-10-05,939.1662732376275,Home Goods,2,8
+user_35,50,Female,Los Angeles,2023-11-14,445.90088716907314,Home Goods,3,6
+user_36,63,Male,New York,2023-01-20,966.441234678032,Grocery,3,6
+user_37,37,Male,Phoenix,2024-05-05,843.2288267826098,Grocery,5,7
+user_38,53,Female,Phoenix,2024-02-10,415.2559911424485,Home Goods,2,6
+user_39,36,Female,Chicago,2024-07-28,143.69250604464688,Fashion,3,1
+user_40,52,Male,Los Angeles,2024-07-06,567.6206337460591,Home Goods,3,4
+user_41,28,Female,Phoenix,2023-02-19,785.6137828580897,Electronics,2,7
+user_42,60,Female,New York,2024-03-19,709.5789244641622,Home Goods,5,4
+user_43,54,Male,Chicago,2023-04-16,336.784278080878,Home Goods,2,6
+user_44,29,Male,New York,2024-02-10,874.6420659268088,Beauty,1,1
+user_45,34,Female,Los Angeles,2024-03-06,941.551774829577,Electronics,2,1
+user_46,19,Male,New York,2023-06-11,609.5239129774747,Electronics,5,6
+user_47,30,Female,Phoenix,2023-03-23,520.4817628196238,Home Goods,5,4
+user_48,44,Female,Los Angeles,2023-01-08,770.0267731747997,Home Goods,2,6
+user_49,50,Female,Houston,2024-08-19,156.62148381974657,Electronics,5,2
+user_50,24,Male,Chicago,2024-02-24,596.5711419072159,Fashion,3,6
+user_51,35,Male,Los Angeles,2024-06-25,176.8369509318218,Grocery,3,10
+user_52,22,Male,New York,2024-06-09,333.5123416183322,Electronics,4,1
+user_53,23,Female,Los Angeles,2023-06-06,304.59210798548656,Beauty,3,6
+user_54,39,Female,Phoenix,2024-07-31,537.9511467741728,Home Goods,5,10
+user_55,33,Female,Phoenix,2023-05-18,488.3870691016341,Electronics,3,1
+user_56,37,Female,Houston,2023-03-10,132.02044878087455,Home Goods,5,9
+user_57,27,Male,New York,2023-08-08,640.8635890280718,Home Goods,1,9
+user_58,62,Female,Los Angeles,2023-03-09,562.4084260603584,Grocery,5,6
+user_59,23,Female,Houston,2023-02-27,380.4004319287362,Fashion,3,10
+user_60,33,Female,New York,2024-04-26,237.1018179587045,Beauty,2,2
+user_61,47,Female,Phoenix,2024-07-20,86.76233238627346,Electronics,5,3
+user_62,46,Male,Chicago,2024-11-15,585.5676315391605,Electronics,2,7
+user_63,55,Female,Los Angeles,2024-02-01,566.7613283484372,Beauty,1,10
+user_64,65,Female,Chicago,2023-01-31,690.482413982111,Fashion,3,6
+user_65,30,Male,New York,2024-09-07,203.6472544902414,Grocery,5,1
+user_66,63,Male,Phoenix,2023-06-02,885.8384221154033,Home Goods,4,4
+user_67,34,Female,Los Angeles,2023-10-12,698.0229948873302,Grocery,4,4
+user_68,64,Female,Chicago,2023-11-23,408.8301023631782,Grocery,2,1
+user_69,55,Female,Houston,2023-02-13,892.6231856220245,Home Goods,5,2
+user_70,56,Female,New York,2024-05-14,489.58272559034543,Beauty,3,6
+user_71,35,Female,Chicago,2023-08-14,792.082817254912,Beauty,2,2
+user_72,25,Male,Chicago,2024-01-16,690.5948537189389,Home Goods,3,4
+user_73,52,Female,Houston,2023-09-17,864.431080941789,Electronics,1,2
+user_74,42,Female,Los Angeles,2024-10-03,571.1344545618275,Beauty,5,5
+user_75,32,Female,Phoenix,2023-06-11,149.37277583029592,Fashion,3,4
+user_76,39,Female,Houston,2023-10-27,879.9805728384968,Fashion,2,3
+user_77,26,Female,Phoenix,2023-03-12,759.6667934228644,Electronics,1,8
+user_78,30,Female,Houston,2023-05-05,10.130592858249456,Electronics,1,6
+user_79,25,Male,Phoenix,2023-12-24,221.3392644214748,Electronics,5,4
+user_80,29,Female,Phoenix,2023-12-23,453.7977449580092,Grocery,4,3
+user_81,55,Male,Chicago,2023-07-30,89.43608489136706,Home Goods,4,9
+user_82,33,Female,Houston,2023-05-13,25.86418001668376,Fashion,2,1
+user_83,25,Male,New York,2023-06-21,911.0396727804522,Grocery,1,8
+user_84,43,Female,New York,2023-11-10,944.3025420172041,Home Goods,2,1
+user_85,63,Female,New York,2024-03-09,322.89038506209664,Home Goods,2,1
+user_86,40,Male,Chicago,2023-04-07,534.4435575071001,Electronics,2,1
+user_87,50,Female,Houston,2023-08-05,666.9139296448863,Electronics,5,9
+user_88,36,Female,Chicago,2023-12-06,844.902888631582,Electronics,3,4
+user_89,62,Male,Los Angeles,2023-05-13,262.20074542021155,Fashion,1,2
+user_90,52,Male,New York,2024-10-18,583.5012804341414,Fashion,4,4
+user_91,38,Male,Chicago,2024-01-12,794.7506033898978,Home Goods,4,5
+user_92,48,Male,Los Angeles,2024-07-19,973.6925618223469,Fashion,1,6
+user_93,64,Male,Houston,2023-01-28,801.8218776447317,Grocery,4,9
+user_94,46,Male,Los Angeles,2024-07-14,873.1696401120289,Fashion,5,4
+user_95,25,Male,Houston,2024-05-02,402.3308512076382,Home Goods,2,1
+user_96,19,Male,Chicago,2024-05-16,182.41421041436413,Electronics,4,2
+user_97,62,Male,Houston,2024-08-16,985.1198713877712,Grocery,5,3
+user_98,37,Female,Houston,2023-11-27,775.1810304243601,Home Goods,5,7
+user_99,43,Female,Los Angeles,2023-03-10,159.90229891476548,Grocery,1,5
+user_100,64,Female,Los Angeles,2023-12-30,986.9187914984095,Fashion,5,10
+user_101,18,Male,New York,2023-04-06,643.2790701271894,Fashion,4,3
+user_102,18,Female,Phoenix,2024-07-08,980.3137703058002,Electronics,1,7
+user_103,29,Male,Chicago,2024-07-19,450.3592007376446,Grocery,1,1
+user_104,31,Female,Phoenix,2023-12-18,918.9789468112739,Electronics,2,6
+user_105,21,Male,Chicago,2024-04-28,198.52219595858898,Grocery,2,9
+user_106,41,Female,Chicago,2023-05-03,684.9663312614153,Beauty,3,8
+user_107,40,Female,Phoenix,2024-06-09,749.0368815638675,Electronics,3,4
+user_108,50,Female,New York,2023-10-06,641.3891764813484,Home Goods,2,7
+user_109,58,Female,Chicago,2024-05-06,168.49267510332734,Fashion,1,4
+user_110,36,Male,Chicago,2024-05-01,987.1500796150484,Fashion,3,5
+user_111,19,Male,Houston,2023-01-07,952.179092841261,Beauty,4,5
+user_112,50,Female,New York,2024-07-08,747.4235632801616,Fashion,4,4
+user_113,30,Female,Los Angeles,2023-08-29,946.1317489259901,Home Goods,2,7
+user_114,46,Male,Houston,2024-01-01,615.1955274549838,Home Goods,4,7
+user_115,53,Female,Phoenix,2023-08-30,543.8489884008421,Beauty,3,9
+user_116,55,Male,New York,2023-03-03,651.3487919061029,Grocery,4,8
+user_117,27,Male,Houston,2024-11-04,588.308515707366,Electronics,2,3
+user_118,56,Female,Phoenix,2023-05-16,593.8837107030546,Electronics,5,9
+user_119,55,Male,Phoenix,2023-12-20,767.7701238296441,Grocery,3,8
+user_120,41,Female,Houston,2024-02-08,246.01253843821735,Beauty,2,9
