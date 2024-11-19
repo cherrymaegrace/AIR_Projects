@@ -1,8 +1,5 @@
-import os
-import openai
 import numpy as np
 import pandas as pd
-import json
 from helper import Helper
 from langchain_community.chat_models import ChatOpenAI
 from langchain_community.document_loaders import CSVLoader
@@ -12,7 +9,6 @@ from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from openai.embeddings_utils import get_embedding
-import faiss
 import streamlit as st
 import warnings
 from streamlit_option_menu import option_menu
@@ -148,7 +144,22 @@ else:
     helper = Helper(api_key=api_key)
 
 # Main interface
-st.title("🤝 ENGAGE: Creating highly engaging, personalized campaigns")
+st.markdown("""
+# 🤝 Welcome to Engage!
+
+## Craft highly personalized email campaigns driven by data, powered by AI.
+
+Say goodbye to generic email marketing. With Engage, you can:  
+- Effortlessly segment your customers using data-driven insights.  
+- Retrieve relevant customer behaviors and preferences in seconds.  
+- Generate targeted, high-converting email content tailored to every audience.  
+
+Powered by advanced AI and retrieval technology, Engage makes personalization simple, efficient, and impactful. Whether you're welcoming a new customer, reigniting an old connection, or promoting your latest offer, Engage ensures every message lands just right.
+
+---
+
+### Ready to transform your campaigns?  
+""")
 st.sidebar.markdown("<small>*by [cherry](https://www.linkedin.com/in/cherrymaegrace)*</small>", unsafe_allow_html=True)
 
 # Add caching for dataset loading
