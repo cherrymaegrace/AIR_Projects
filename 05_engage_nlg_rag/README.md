@@ -1,5 +1,11 @@
 # ENGAGE - AI-Powered Email Marketing Personalization
 
+## ✨ Try it out!
+
+Experience ENGAGE in action! Click the link below to access our live demo:
+
+🔗 [Live Demo](https://engage.streamlit.app)
+
 ## Overview
 ENGAGE is a sophisticated email marketing tool that leverages RAG (Retrieval Augmented Generation) and AI to create highly personalized email campaigns. The application combines customer segmentation data with purchase behavior to generate targeted, engaging email content for various marketing scenarios.
 

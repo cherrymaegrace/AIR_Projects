@@ -2,6 +2,17 @@
 
 NoteSmith is an intelligent study assistant built on Streamlit that leverages OpenAI's powerful GPT models through their API. This chatbot analyzes uploaded PDF files, creates customized Q&As, and summarizes topics based on the content of the PDF. Using OpenAI's advanced natural language processing capabilities, it can understand context, generate relevant questions, and provide detailed explanations tailored to the study material.
 
+## ✨ Try it out!
+
+Experience NoteSmith in action! Click the link below to access our live demo:
+
+🔗 [Live Demo](https://notesmith.streamlit.app)
+
+Test the app with our sample study materials:
+1. Download any academic PDF (e.g., lecture notes, research papers)
+2. Upload it to the demo
+3. Start exploring AI-powered study assistance!
+
 ## Features
 
 - **PDF Analysis:** Upload PDF files for NoteSmith to extract text and analyze content.
